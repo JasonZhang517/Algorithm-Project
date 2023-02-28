@@ -1,0 +1,5 @@
+- To change the dataset, modify the import in scheduler.py scheduler_ngreedy.py (toydata / deepdata)
+
+- To change the scheduler, modify the import in main.py (scheduler / scheduler_ngreedy)
+
+- Run `python main.py` to generate `curve.txt`, run `python plot.py` to visualize it (save figure to plot.png by default)
